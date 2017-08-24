@@ -17,6 +17,9 @@ This package starter kit is created to easily get started working with Laravel 5
 5. Generate APP_KEY
 `php artisan key:generate`
 
+6. Migrate database.
+`php artisan migrate`
+
 You can now visit your site via `http://myapp.dev` if you are using Laravel Valet.
 
 
